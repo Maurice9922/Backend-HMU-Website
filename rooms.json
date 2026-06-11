@@ -5,25 +5,25 @@
       "id": "P4.34",
       "bookings": [
         {
-          "date": "2026-06-04",
-          "start": "08:00",
-          "end": "12:15",
+          "date": "2026-06-11",
+          "start": "13:00",
+          "end": "13:15",
           "person": "Klinik WS23 UaK-08"
         },
         {
-          "date": "2026-06-04",
+          "date": "2026-06-11",
+          "start": "13:15",
+          "end": "13:30",
+          "person": "Herr Töpfer"
+        },
+        {
+          "date": "2026-06-11",
           "start": "13:30",
-          "end": "16:15",
+          "end": "13:45",
           "person": "Herr Töpfer"
         },
         {
-          "date": "2026-06-04",
-          "start": "16:30",
-          "end": "17:15",
-          "person": "Herr Töpfer"
-        },
-        {
-          "date": "2026-06-05",
+          "date": "2026-06-11",
           "start": "17:30",
           "end": "20:15",
           "person": "Herr Töpfer"
